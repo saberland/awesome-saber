@@ -18,4 +18,4 @@ If your website is powered by Saber, feel free to add it here.
 
 ### Websites
 
-- [Vue Land](https://vue-land.js.org) ([source](https://github.com/egoist/vue-land))
+- [Vue Land](https://vue-land.js.org) ([source](https://github.com/egoist/vue-land)) - The website for the official Vue chat community.

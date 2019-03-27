@@ -5,7 +5,7 @@
 
 ## Themes
 
-- [minima](https://github.com/egoist/saber-theme-minima): A Saber port for Jekyll's default theme.
+- [minima](https://github.com/egoist/saber-theme-minima) ([demo](https://minima.saberjs.org/)): A Saber port for Jekyll's default theme.
 
 ## Powered By Saber
 

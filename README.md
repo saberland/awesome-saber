@@ -13,6 +13,6 @@ If your website is powered by Saber, feel free to add it here.
 
 ### Blogs
 
-- [庶民样本](https://egoist.moe): `#Chinese`
-- [minemine](https://minemine.cc/): `#Chinese`
+- [庶民样本](https://egoist.moe) `#Chinese`
+- [minemine](https://minemine.cc/) `#Chinese`
 

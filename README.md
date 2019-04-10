@@ -17,6 +17,7 @@
 
 - [minima](https://github.com/egoist/saber-theme-minima) ([demo](https://minima.saberjs.org/)): A Saber port for Jekyll's default theme.
 - [paper](https://github.com/geekplux/blog/tree/master/packages/saber-theme-paper) ([demo](https://geekplux.com)): A simple theme like read on a paper.
+- [Ume](https://github.com/iCyris/Ume)([demo](https://cyris.pen.moe)): An elegant theme for Saber.
 
 ## Powered By Saber
 

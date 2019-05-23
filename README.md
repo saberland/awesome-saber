@@ -5,12 +5,12 @@
 ## Plugins
 
 - [saber-plugin-query-posts](https://github.com/egoist/saber/tree/master/packages/saber-plugin-query-posts): Query posts and inject them to specific pages. Useful when you're writing a blog. (Included by Saber's default blog starter)
-- [saber-plugin-generate-feed](https://github.com/egoist/saber/tree/master/packages/saber-plugin-generate-feed): Generate JSON feed for your blog. (Included by Saber's default blog starter)
+- [saber-plugin-feed](https://github.com/egoist/saber/tree/master/packages/saber-plugin-feed): Generate JSON feed for your blog. (Included by Saber's default blog starter)
 - [saber-plugin-google-analytics](https://github.com/egoist/saber/tree/master/packages/saber-plugin-google-analytics): Add Google Anaytics support.
 - [saber-plugin-critical](https://github.com/egoist/saber-plugin-critical): Inline critical CSS.
 - [saber-plugin-baidu-analytics](https://github.com/h404bi/www.h404bi.com/tree/master/packages/saber-plugin-baidu-analytics): Baidu Analytics plugin for Saber.js.
 - [saber-plugin-baidu-push](https://github.com/h404bi/www.h404bi.com/tree/master/packages/saber-plugin-baidu-push): Baidu Push SEO plugin for Saber.js.
-- [saber-plugin-generate-sitemap](https://github.com/h404bi/www.h404bi.com/tree/master/packages/saber-plugin-generate-sitemap): Sitemap generator plugin for Saber.js.
+- [saber-plugin-sitemap](https://github.com/h404bi/www.h404bi.com/tree/master/packages/saber-plugin-sitemap): Sitemap generator plugin for Saber.js.
 - [saber-plugin-seo](https://github.com/geekplux/blog/tree/master/packages/saber-plugin-seo): SEO headers plugin for Saber.js.
 
 ## Themes

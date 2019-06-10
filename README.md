@@ -20,6 +20,7 @@
 - [paper](https://github.com/geekplux/blog/tree/master/packages/saber-theme-paper) ([demo](https://geekplux.com)): A simple theme like read on a paper.
 - [Ume](https://github.com/iCyris/Ume)([demo](https://cyris.pen.moe)): An elegant theme for Saber.
 - [Tailsaw](https://github.com/krmax44/saber-theme-tailsaw) ([demo](https://saber-theme-tailsaw.netlify.com)): The elegant Jigsaw blog starter theme ported to Saber with some extra goodies
+- [Tufte](https://github.com/askcreative/saber-theme-tufte) ([demo](https://saber-theme-tufte.netlify.com/)): A Tufte styled theme with Mathjax.
 
 ## Starters
 

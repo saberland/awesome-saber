@@ -35,6 +35,7 @@ If your website is powered by Saber, feel free to add it here.
 - [庶民样本](https://egoist.moe) ([source](https://github.com/egoist/blog)) `#Chinese`
 - [minemine](https://minemine.cc/) ([source](https://github.com/luyilin/minemine)) `#Chinese`
 - [chawyehsu](https://www.h404bi.com) ([source](https://github.com/h404bi/www.h404bi.com)) `#Chinese`
+- [#000](https://www.three-zeros.com) ([source](https://github.com/ohiosveryown/black-000-2020)) - A photo blog.
 
 ### Websites
 

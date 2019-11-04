@@ -13,7 +13,7 @@
 - [saber-plugin-sitemap](https://github.com/h404bi/www.h404bi.com/tree/master/packages/saber-plugin-sitemap): Sitemap generator plugin for Saber.js.
 - [saber-plugin-seo](https://github.com/geekplux/blog/tree/master/packages/saber-plugin-seo): SEO headers plugin for Saber.js.
 - [saber-plugin-medium-zoom](https://github.com/kidonng/saber-plugin-medium-zoom): [medium-zoom](https://github.com/francoischalifour/medium-zoom) plugin for Saber
-- [saber-plugin-search](https://github.com/egoist/saber/tree/master/packages/saber-plugin-feed): Add simple search to your site.
+- [saber-plugin-search](https://github.com/egoist/saber/tree/master/packages/saber-plugin-search): Add simple search to your site.
 
 ## Themes
 

@@ -4,23 +4,24 @@
 
 ## Plugins
 
-- [saber-plugin-query-posts](https://github.com/egoist/saber/tree/master/packages/saber-plugin-query-posts): Query posts and inject them to specific pages. Useful when you're writing a blog. (Included by Saber's default blog starter)
-- [saber-plugin-feed](https://github.com/egoist/saber/tree/master/packages/saber-plugin-feed): Generate JSON feed for your blog. (Included by Saber's default blog starter)
-- [saber-plugin-google-analytics](https://github.com/egoist/saber/tree/master/packages/saber-plugin-google-analytics): Add Google Anaytics support.
+- [saber-plugin-query-posts](https://github.com/saberland/saber/tree/master/packages/saber-plugin-query-posts): Query posts and inject them to specific pages. Useful when you're writing a blog. (Included by Saber's default blog starter)
+- [saber-plugin-feed](https://github.com/saberland/saber/tree/master/packages/saber-plugin-feed): Generate JSON feed for your blog. (Included by Saber's default blog starter)
+- [saber-plugin-google-analytics](https://github.com/saberland/saber/tree/master/packages/saber-plugin-google-analytics): Add Google Anaytics support.
 - [saber-plugin-critical](https://github.com/egoist/saber-plugin-critical): Inline critical CSS.
-- [saber-plugin-baidu-analytics](https://github.com/h404bi/www.h404bi.com/tree/master/packages/saber-plugin-baidu-analytics): Baidu Analytics plugin for Saber.js.
-- [saber-plugin-baidu-push](https://github.com/h404bi/www.h404bi.com/tree/master/packages/saber-plugin-baidu-push): Baidu Push SEO plugin for Saber.js.
-- [saber-plugin-sitemap](https://github.com/h404bi/www.h404bi.com/tree/master/packages/saber-plugin-sitemap): Sitemap generator plugin for Saber.js.
-- [saber-plugin-seo](https://github.com/geekplux/blog/tree/master/packages/saber-plugin-seo): SEO headers plugin for Saber.js.
+- [saber-plugin-baidu-analytics](https://github.com/h404bi/www.h404bi.com/tree/master/packages/saber-plugin-baidu-analytics): Baidu Analytics plugin for Saber.
+- [saber-plugin-baidu-push](https://github.com/h404bi/www.h404bi.com/tree/master/packages/saber-plugin-baidu-push): Baidu Push SEO plugin for Saber.
+- [saber-plugin-sitemap](https://github.com/h404bi/www.h404bi.com/tree/master/packages/saber-plugin-sitemap): Sitemap generator plugin for Saber.
+- [saber-plugin-seo](https://github.com/geekplux/saber-plugin-seo): SEO headers plugin for Saber.js.
 - [saber-plugin-medium-zoom](https://github.com/kidonng/saber-plugin-medium-zoom): [medium-zoom](https://github.com/francoischalifour/medium-zoom) plugin for Saber
-- [saber-plugin-search](https://github.com/egoist/saber/tree/master/packages/saber-plugin-search): Add simple search to your site.
+- [saber-plugin-search](https://github.com/saberland/saber/tree/master/packages/saber-plugin-search): Add simple search to your site.
+- [saber-plugin-google-adsense](https://github.com/h404bi/www.h404bi.com/tree/master/packages/saber-plugin-google-adsense): Google Adsense plugin for Saber.
 
 ## Themes
 
-- [minima](https://github.com/egoist/saber-theme-minima) ([demo](https://minima.saberjs.org/)): A Saber port for Jekyll's default theme.
-- [paper](https://github.com/geekplux/blog/tree/master/packages/saber-theme-paper) ([demo](https://geekplux.com)): A simple theme like read on a paper.
+- [minima](https://github.com/saberland/saber-theme-minima) ([demo](https://minima.saber.land/)): A Saber port for Jekyll's default theme.
+- [paper](https://github.com/geekplux/saber-theme-paper) ([demo](https://geekplux.com)): A simple theme like read on a paper.
 - [Ume](https://github.com/iCyris/Ume)([demo](https://cyris.pen.moe)): An elegant theme for Saber.
-- [Tailsaw](https://github.com/krmax44/saber-theme-tailsaw) ([demo](https://saber-theme-tailsaw.netlify.com)): The elegant Jigsaw blog starter theme ported to Saber with some extra goodies
+- [Tailsaw](https://github.com/saberland/saber-theme-tailsaw) ([demo](https://tailsaw.saber.land/)): The elegant Jigsaw blog starter theme ported to Saber with some extra goodies
 - [Tufte](https://github.com/askcreative/saber-theme-tufte) ([demo](https://saber-theme-tufte.netlify.com/)): A Tufte styled theme with Mathjax.
 
 ## Starters
